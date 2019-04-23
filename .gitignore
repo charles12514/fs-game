@@ -1,0 +1,8 @@
+bin
+obj
+*.dll
+*.suo
+*.psess
+*.vsp
+packages
+.vs/config/applicationhost.config
